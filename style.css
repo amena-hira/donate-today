@@ -1,0 +1,38 @@
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+}
+h1 {
+  margin: 0;
+  font-size: 95px;
+}
+.second-head{
+    padding-bottom: 30px;
+}
+.top-banner {
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.6)),
+    url(images/donation13.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.top-banner p{
+    font-size: 22px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.top-banner a {
+  text-decoration: none;
+  color: white;
+  padding: 15px 30px;
+  background-color: rgba(255, 89, 89);
+  border-radius: 7px;
+  font-size: 700;
+  margin-top: 50px;
+}
