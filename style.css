@@ -88,3 +88,19 @@ section {
     padding: 20px;
     text-align: center;
 }
+/* Donate Today */
+.div-box{
+    width: 75%;
+}
+.box-art{
+    margin: 10px 20px;
+    padding: 40px 50px;
+    background-color: rgb(237,245,246);
+}
+.box-art img{
+    width: 60px;
+    height: 60px;
+}
+h3{
+    font-size: 30px;
+}
