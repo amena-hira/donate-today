@@ -71,10 +71,10 @@ section {
     border: 5px solid #ff5959;
     color: #ff5959;
 }
-.DT-div input,div{
+.DT-div-button, .DT-last_div-item{
     display: block;
 }
-.DT-div input{
+.DT-last_div-item{
     margin: 10px 20px;
     padding: 10px 20px;
     border:none;
@@ -118,4 +118,32 @@ footer h3{
 }
 footer p{
     margin-bottom: 0;
+}
+/* get my updates */
+#bg-cubscribe{
+    background-color: rgb(255,244,214);
+    text-align: center;
+    width: 50%;
+    padding: 100px 40px;
+    
+}
+#bg-cubscribe input,a{
+    font-size: 20px;
+}
+.input-email{
+    background-color: rgb(237,245,246);
+    width: 500px;
+    padding: 18px 20px;
+    border: none;
+    border-radius: 15px 0 0 15px;
+    margin-right: -4px;
+      
+}
+.sub-button{
+    border-radius: 0 15px 15px 0;
+    padding: 18px 26px;
+    border: none;
+    background-color: #ff5959;
+    color: white;
+    text-decoration: none;
 }
