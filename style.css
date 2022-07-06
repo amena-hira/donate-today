@@ -105,7 +105,7 @@ section {
 #color-box-3{
     background-color: rgb(255,244,214);
 }
-.box-art img{
+#box-art-img{
     width: 60px;
     height: 60px;
 }
@@ -155,3 +155,29 @@ footer p{
     color: white;
     text-decoration: none;
 }
+/* Our Volunteers */
+#box-volunteer{
+    margin: 0px 20px;
+    padding: 0px 7px;
+    text-align: center;
+}
+#box-volunteer img{
+    width: 300px;
+    height: 300px;
+}
+#box-volunteer h5{
+    font-size: 17px;
+    font-weight: 100;
+    margin: 0;
+    padding: 0;
+}
+#box-volunteer h3{
+    margin-bottom: 7px;
+    font-weight: 30px;
+}
+
+/* middle seection's margin */
+.section-margin{
+    margin: 70px 0px;
+}
+
