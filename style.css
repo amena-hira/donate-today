@@ -104,3 +104,18 @@ section {
 h3{
     font-size: 30px;
 }
+/* footer */
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+footer h3{
+    font-size: 40px;
+    color: #ff5959;
+}
+footer p{
+    margin-bottom: 0;
+}
